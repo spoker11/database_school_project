@@ -1,1 +1,1 @@
-# database_school_project
+První databázový projekt
